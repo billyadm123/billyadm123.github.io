@@ -1,11 +1,11 @@
 # Site settings
-author: William Adams
-title: 
+author: Billy Adams
+title: Why I chose data science
 header-img: img/home-bg.png
 email: william.adams120193@outlook.com
-copyright_name: William Adams
+copyright_name: Billy Adams
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The plan
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  billyadm123
