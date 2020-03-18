@@ -24,5 +24,5 @@ movies.sort_values(by=['profit', 'budget'], ascending=False, inplace=True) and s
 
 # Recommendation
 
-Based on the dataaset I used and from my analysis I recommend an action PG-13 movie that's around 90 minutes long.  I think another important consideration is the usual viewer of the movie, when the movie is released and the star actor of that movie.
+Based on the dataset I used and from my analysis I recommend an action PG-13 movie that's around 90 minutes long.  I think another important consideration is the usual viewer of the movie, when the movie is released and the star actor of that movie.
 
