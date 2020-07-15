@@ -1,0 +1,14 @@
+---
+layout: post
+title:      "Water crisis"
+date:       2020-07-15 19:49:47 +0000
+permalink:  water_crisis
+---
+
+
+There are many benefits to clean water.  Access to clean water is a basic human right which civilization is built around.  Water is used for everything from cooking, sanitation, drinking along with other daily activities that are essential to sustain human life and to enhance the quality of living.  Water and the access to clean water aligns with many of the Sustainable Development Goals outlined by the United Nation. Providing access to clean water is directly related to SDG 6, Clean Water and Sanitation. 
+ There is a strong correlation between unsafe, contaminated water and preventative diseases.  In 2018, about 159 million people collected unsafe water from lakes and ponds, of which an estimated 842,000 people died from diarrhea alone and 361,000 of these deaths’ children under the age of five (“Water,” n.d.). Waterborne diseases are one of the main contributors to needless deaths across the globe (“Water,” n.d.).  Providing clean and safe drinking water would have a strong impact on SDG, Good Health and Well-being.
+Water is also used to grow food, which if dirty water is used, the food could become contaminated.  The access to water to grow food would give communities many opportunities for economic growth and sustainability.  Communities will have the water necessary to grow the food they need, not only for themselves and their families, but they will be able to set up markets to sell this food, stimulating the economy and providing work opportunities, allowing the communities themselves to grow and build stronger infrastructure, reducing the need for humanitarian assistance and ending the hunger crisis.  All these outcomes lead to SDG 1 which is to end global poverty.
+Extreme poverty can also put people and communities in vulnerable situations.  They must rely on an outside entity for assistance and the basic human needs to survive.  This can make them an easy target for terrorist groups such as Boko Haram and Al-Shabaab.  Providing water to those suffering from extreme poverty can give them the option not to rely on these organizations and give them the ability to stand on their own and take away some of the power of these terrorist groups and improve global security.
+Lack of water can lead to mass migration. In May of 2017, 6.6 million migrants were waiting to cross the border into Europe from Africa due to water scarcity (wri.org).  Most of these migrants end up in IDP camps or refugee camps.  These camps are usually cramped and have poor sanitation.  With all these people living so close together combined with poor hygiene and sanitation leads to a perfect environment for a potential outbreak that could not easily be contained and lead to mass panic adding to the global security issue. 
+
